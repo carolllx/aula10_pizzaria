@@ -53,5 +53,3 @@ Foram realizados testes para verificar:
 - SQL
 - MariaDB
 - XAMPP
-
----# aula10_pizzaria
