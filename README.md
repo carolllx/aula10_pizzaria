@@ -17,7 +17,7 @@ Projeto desenvolvido durante as aulas de Banco de Dados, utilizando MariaDB e SQ
 | `triggers.sql` | Criação de gatilhos para automatizar operações. |
 | `backup_pizzaria.sql` | Arquivo de backup do banco de dados. |
 
-## ⚙️ Funcionalidades Desenvolvidas
+## Funcionalidades Desenvolvidas
 
 ### 1. Functions
 Criação da função `moeda()`, utilizada para formatar valores monetários no padrão brasileiro.
